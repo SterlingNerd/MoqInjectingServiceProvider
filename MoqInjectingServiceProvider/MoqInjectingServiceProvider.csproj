@@ -5,13 +5,14 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Josh Sterling</Authors>
     <Company />
-    <Product />
+    <Product>MoqInjectingServiceProvider</Product>
     <PackageLicenseFile></PackageLicenseFile>
     <PackageProjectUrl>https://github.com/SterlingNerd/MoqInjector</PackageProjectUrl>
     <RepositoryUrl>https://github.com/SterlingNerd/MoqInjector.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Description>A simple ServiceProvider that will automatically add Mock&lt;T&gt; for any unresolved dependency. Intended for use with unit testing.</Description>
+    <AssemblyName>SterlingNerd.MoqInjectingServiceProvider</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>

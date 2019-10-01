@@ -4,6 +4,10 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
 
     <IsPackable>false</IsPackable>
+
+    <AssemblyName>SterlingNerd.MoqInjectingServiceProvider</AssemblyName>
+
+    <RootNamespace>SterlingNerd.MoqInjectingServiceProvider</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MoqInjector\MoqInjector.csproj" />
+    <ProjectReference Include="..\MoqInjectingServiceProvider\MoqInjectingServiceProvider.csproj" />
   </ItemGroup>
 
 </Project>

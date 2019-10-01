@@ -2,11 +2,11 @@ using System;
 
 using Microsoft.Extensions.DependencyInjection;
 
-using MoqInjector;
+using MoqInjectingServiceProvider;
 
 using NUnit.Framework;
 
-namespace MoqInjectorTests
+namespace SterlingNerd.MoqInjectingServiceProvider
 {
 	[TestFixture]
 	public class MockInjectingServiceProviderTests

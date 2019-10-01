@@ -6,7 +6,7 @@ using System.Reflection;
 
 using Moq;
 
-namespace MoqInjector
+namespace MoqInjectingServiceProvider
 {
 	public class MockInjectingServiceProvider : IServiceProvider
 	{

@@ -2,7 +2,7 @@
 
 using Microsoft.Extensions.DependencyInjection;
 
-namespace MoqInjector
+namespace MoqInjectingServiceProvider
 {
 	public static class ServiceCollectionExtensions
 	{
