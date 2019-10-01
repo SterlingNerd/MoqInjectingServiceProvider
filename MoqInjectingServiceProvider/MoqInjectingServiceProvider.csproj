@@ -7,13 +7,14 @@
     <Company />
     <Product>MoqInjectingServiceProvider</Product>
     <PackageLicenseFile></PackageLicenseFile>
-    <PackageProjectUrl>httpsgithub.comSterlingNerdMoqInjectingServiceProvider</PackageProjectUrl>
-    <RepositoryUrl>httpsgithub.comSterlingNerdMoqInjectingServiceProvider.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/SterlingNerd/MoqInjectingServiceProvider</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SterlingNerd/MoqInjectingServiceProvider.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Description>A simple ServiceProvider that will automatically add Mock&lt;T&gt; for any unresolved dependency. Intended for use with unit testing.</Description>
     <AssemblyName>SterlingNerd.MoqInjectingServiceProvider</AssemblyName>
     <Version>1.0.1</Version>
+    <PackageId>SterlingNerd.MoqInjectingServiceProvider</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
