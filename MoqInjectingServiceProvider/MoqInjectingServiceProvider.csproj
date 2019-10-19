@@ -14,7 +14,7 @@
     <Description>A simple ServiceProvider that will automatically add Mock&lt;T&gt; for any unresolved dependency. Intended for use with unit testing.</Description>
     <AssemblyName>SterlingNerd.MoqInjectingServiceProvider</AssemblyName>
     <Version>1.0.2</Version>
-    <PackageId>SterlingNerd.MoqInjectingServiceProvider</PackageId>
+    <PackageId>MoqInjectingServiceProvider</PackageId>
     <AssemblyVersion>1.0.2.0</AssemblyVersion>
     <FileVersion>1.0.2.0</FileVersion>
   </PropertyGroup>
